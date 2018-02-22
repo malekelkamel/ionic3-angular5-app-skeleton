@@ -1,5 +1,5 @@
 # ionic3-angular5-app-skeleton
-How to create a sample Ionic 3 and Angular 5 Mobile App.
+How to create an Ionic 3 and Angular 5 Mobile App.
 
 # Install Ionic 
 After installing Node.js and `npm` command works on the terminal (Linux/Mac) or Node Command Line (Windows), open the terminal or Node command line. Update Ionic to the latest version using this command.
